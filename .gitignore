@@ -1,0 +1,11 @@
+*.o
+*.cmi
+*.cmo
+*._d
+*._bcdi
+parser.ml
+parser.mli
+lexer.ml
+eval1/interpreter
+_build
+
